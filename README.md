@@ -39,4 +39,11 @@ this still need testing i think config file herstilftwn can be change ![2021-08-
 ![2021-08-02_20-06](https://user-images.githubusercontent.com/5195657/127941825-8d4b9e04-be74-487b-9d80-c5b2a516a411.png)
 
 think like layout work  just fine 
+
+[Desktop Entry]
+Type=XSession
+Exec=env KDEWM=/usr/bin/herbstluftwm /usr/bin/startplasma-x11 
+TryExec=/usr/bin/startplasma-x11
+DesktopNames=KDE with herbstluftwm 
+Name=Plasma (X11) with herbstluftwm 
  
