@@ -1,25 +1,17 @@
 # herbstluftwm-kde
-If your wanting to run herbstluftwm  with kde give this a try
+If you are looking to run  herbstluftwm  with kde  this bring  herbstluftwm to KDE 
 
-Note this not for Wayland  this only support xorg 
-
+testing is need for Wayland will work in Xorg just fine 
 
 my systeam 
 Arch linux - arcolinux 
 KDE Plasma 5
-KWin 
 Kerbstulftwm 
 
 
-this for plasma 5   if you for plamsa 4 you have to do your self 
-
 other note Think like D-menu work along with the kde menu 
-keybinding in kerbstluftwm work with in kde now 
-this file dose not dose not come with kerbstluftwm config file 
-the config file im useing is the from acro-linux for kerbstluftwm   
-
-
-
+keybinding in kerbstluftwm work with in kde  more testing is need for keybinds 
+ the config file im useing is the from acro-linux for kerbstluftwm  and kde  you might need to change the file path for othe Linux distor   
 
 
 this just a X-seeseon that let you  use both kerbstluftwm  and kde togther 
