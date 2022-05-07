@@ -1,7 +1,6 @@
 # herbstluftwm-kde
 If you are looking to run  herbstluftwm  with kde  this bring  herbstluftwm to KDE 
-
-testing is need for Wayland will work in Xorg just fine 
+Xorg only 
 
 my systeam 
 Arch linux - arcolinux 
